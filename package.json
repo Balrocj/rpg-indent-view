@@ -27,7 +27,7 @@
         "editor/context": [
             {
                 "command": "extension.openAndReindent",
-                "when": "editorLangId == 'rpg' || editorLangId == 'rpgle' ", 
+                "when": "editorLangId == 'rpg' || editorLangId == 'rpgle' || editorLangId == 'rpt' ", 
                 "group": "navigation"
             }
         ]
